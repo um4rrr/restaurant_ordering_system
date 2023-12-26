@@ -1,1 +1,2 @@
+// New accounts will have a OTP sent to the textfile. The code in umar.cpp will check againts the textfile to verify the code.
 716
