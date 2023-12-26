@@ -1,0 +1,12 @@
+
+16199	Danish	10
+19226	Abdullah	410
+10469	Reynaldi	0
+16083	Donald	10
+19382	Joe	10
+10076	Nancy	10
+10928	George	10
+11281	Sze	10
+11758	John	10
+17394	Test	0
+10919	Umar	10
